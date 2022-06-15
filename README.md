@@ -15,9 +15,6 @@ _Key Feature of this App will be:_
 ## Installation
 
 
-[Click Here](https://) to install apk file on your Android Device.
-
-
 _For New Users_ :
 
 -  Sign Up on Quiz App as Student or Faculty as per your choice
